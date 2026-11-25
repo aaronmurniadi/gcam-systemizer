@@ -1,0 +1,6 @@
+id=gcam_systemizer
+name=Google Camera Systemizer
+version=v8.7.250.494820638.44
+versionCode=65822832
+author=aaronmurniadi
+description=Mounts Google Camera as a privileged system app (/system/priv-app/GoogleCamera) so other apps can resolve and call its camera intents (IMAGE_CAPTURE, STILL_IMAGE_CAMERA, VIDEO_CAPTURE).

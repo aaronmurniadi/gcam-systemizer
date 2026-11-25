@@ -1,0 +1,8 @@
+# Built module zips
+dist/
+
+# Google Camera APKs copied from the phone. Never commit these.
+module/system/priv-app/GoogleCamera/*.apk
+
+# macOS
+.DS_Store
